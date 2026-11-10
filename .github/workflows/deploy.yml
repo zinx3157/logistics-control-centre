@@ -1,4 +1,5 @@
 name: Deploy Logistics Control Centre
+# Rebuild Pages after confirming the repository publishing source is GitHub Actions.
 on:
   push:
     branches: [main]
